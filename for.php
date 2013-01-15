@@ -424,7 +424,7 @@
 
 			<footer>
 
-				<div class="left"><a href="cs50.net">CS50</a> &middot; <a href="https://www.edx.org/courses/HarvardX/CS50x/2012/about">CS50x</a>&middot; <a href="tf-manual.php">TF Manual</a></div>
+				<div class="left"><a href="https://www.cs50.net">CS50</a> &middot; <a href="https://www.edx.org/courses/HarvardX/CS50x/2012/about">CS50x</a>&middot; <a href="tf-manual.php">TF Manual</a></div>
 
 				<div class="right">Site by CS50.</div>
 
