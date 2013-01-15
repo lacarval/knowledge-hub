@@ -452,7 +452,7 @@
 
 			<footer>
 
-				<div class="left"><a href="#">CS50</a> &middot; <a href="#">CS50x</a> &middot; <a href="tfs.php">TF Manual</a></div>
+				<div class="left"><a href="#">CS50</a> &middot; <a href="#">CS50x</a> &middot; <a href="tf-manual.php">TF Manual</a></div>
 
 				<div class="right">Site by CS50.</div>
 
