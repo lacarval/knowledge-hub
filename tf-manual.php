@@ -56,14 +56,14 @@
 							commitment as taking it, so be prepared to reorganize your life a bit! In return, you'll make a ton of friends, desensitize yourself
 							to public speaking and performing in front of a camera, and consume inordinate amounts of pizza and candy. 
 							
-								<h3 id="contents"><a href="sections.php">Sections</a></h2>
+								<h3 id="contents"><a href="sections.php">Section Playbook</a></h2>
 									
 									<p> With a 2012 enrollment of over 700, it's crucial that each student has the opportunity to participate in small group 
 									discussions and engage one-on-one with his/her TF. This is accomplished by separating students into small sections led by all
 									of you! In terms of content, these sections should be predominantly student-driven, and we leave it to you to determine the
 									specific needs of your group. We'll provide you with a large amount of section material organized by week. Come to section prepared
 									to teach all of it, but prioritize the content your students clamor for. It's much better to teach a few topics effectively than 
-									all of them poorly. </p>  
+									all of them poorly.</p>  
 																	
 									Besides teaching, your job as a section leader is to get to know your students, 
 									generate enthusiasm for computer science, and allay anxiety. To that end, we will require you to meet individually with each 
