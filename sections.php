@@ -183,7 +183,7 @@
 	
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#section-accordion" href="#eight">
 
-												<a href="section8.php">Section 8 - the internet, HTML, CSS, MySQL, chmod</a>
+												<a href="section8.php">Section 8 - JavaScript</a>
 
 											</a>
 
@@ -197,21 +197,7 @@
 	
 											<a class="accordion-toggle" data-toggle="collapse" data-parent="#section-accordion" href="#nine">
 
-												<a href="section9.php">Section 9 - JavaScript</a>
-
-											</a>
-
-										</div>
-
-									</div>
-									
-									<div class="accordion-group">
-
-										<div class="accordion-heading">
-	
-											<a class="accordion-toggle" data-toggle="collapse" data-parent="#section-accordion" href="#ten">
-
-												<a href="section10.php">Section 10 - Quiz 1 Review</a>
+												<a href="section9.php">Section 9 - Quiz 1 Review</a>
 
 											</a>
 
